@@ -7,3 +7,10 @@ Module2 Assignment:
 - [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)
 - [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module2_solution)
 - [Source code](./module2_solution)
+
+Module3 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md)
+- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module3_solution)
+- [Source code](./module3_solution)
+
+
