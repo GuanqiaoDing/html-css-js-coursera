@@ -7,9 +7,7 @@ body {
 
 #header-nav {
   background-color: #6f44a0;
-  border-radius: 0;
-  border: 0;
-  min-height: 70px;
+  min-height: 50px;
 }
 
 .navbar-brand h1 {
@@ -18,9 +16,8 @@ body {
   font-size: 1.8em;
   text-transform: uppercase;
   font-weight: bold;
-  margin-top: 10px;
+  margin-top: 20px;
   margin-bottom: 20px;
-  line-height: .75;
 }
 
 .navbar-brand a:hover, .navbar-brand a:focus {
@@ -29,39 +26,29 @@ body {
 
 #nav-list a {
   color: #80bad1;
+  background: rgb(236, 236, 209);
+  border: 1px solid #6f44a0;
   font-weight: bold;
 }
 
 #nav-list a:hover {
   background: rgb(236, 236, 209);
-}
-
-.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #80bad1;
-}
-
-.navbar-header button.navbar-toggle {
-  clear: both;
-  margin-top: -30px;
+  opacity: 0.6;
 }
 
 #page-title {
   font-weight: bold;
+  margin-top: 30px;
   margin-bottom: 30px;
 }
 
 #main-text {
-  padding-left: 20px;
-  padding-right: 20px;
-}
-
-.text-background {
   height: 3000px;
-  padding: 20px 40px 20px 40px;
+  padding: 40px;
   background-color: rgb(236, 236, 209);
-  overflow: hidden;
 }
 
 h3 {
+  font-size: 1.3em;
   font-weight: bold;
 }
