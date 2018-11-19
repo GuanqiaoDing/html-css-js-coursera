@@ -19,3 +19,8 @@ Module4 Assignment:
 - [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module4_solution)
 - [Source code](./module4_solution)
 
+Module5 Assignment:
+- [Description](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md)
+- [Solution](https://guanqiaoding.github.io/html-css-js-coursera/module5_solution)
+- [Source code](./module5_solution)
+
